@@ -12,7 +12,7 @@ class AtlasDriverApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ATLAS Motard',
+      title: 'ATLAS Livreur',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme,
       home: const DriverDashboardView(),

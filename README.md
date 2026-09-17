@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://lh3.googleusercontent.com/aida/AEtjO1XY9lAmRfvxhyL2mTFnOX3-yZI6SLURVD8lPcxT246tz-7s61f-GAUQ-9nnTQI7VvytwqE27pxy3d42vYXAnrmxCoGqgdOu0w9VN3H4FEDsPd6vCdG4FSbQGdhlvVzMLOwx67Y1KayQf_QZkijAxz-u9FBOU29GLG2MYnE75UD1SaAR6Rtij6xLEsLNiLig03n5aRHfA38VS2LjVgd9-DYFYYFP5hv7EuAZYiKU36-osSc3Z1g0kn3zsguV" alt="ATLAS Goma Logo" width="120" />
 
-  # ATLAS Driver App (Livreur / Motard)
-  **L'outil ultime pour les motards et livreurs du réseau ATLAS à Goma.**
+  # ATLAS Driver App (Livreur / Livreur)
+  **L'outil ultime pour les livreurs et livreurs du réseau ATLAS à Goma.**
 
   [![Flutter](https://img.shields.io/badge/Flutter-3.22.x-02569B?logo=flutter)](https://flutter.dev)
   [![Dart](https://img.shields.io/badge/Dart-3.4.x-0175C2?logo=dart)](https://dart.dev)
@@ -14,7 +14,7 @@
 
 ## 📌 À propos
 
-**ATLAS Driver App** est l'application réservée aux coursiers (motards) partenaires du réseau ATLAS Goma. Développée en **Flutter**, elle permet aux livreurs de gérer leurs courses, de suivre leurs revenus journaliers, et de valider les livraisons de manière ultrasécurisée via un système de **Code OTP client**.
+**ATLAS Driver App** est l'application réservée aux coursiers (livreurs) partenaires du réseau ATLAS Goma. Développée en **Flutter**, elle permet aux livreurs de gérer leurs courses, de suivre leurs revenus journaliers, et de valider les livraisons de manière ultrasécurisée via un système de **Code OTP client**.
 
 ## ✨ Fonctionnalités Clés
 
@@ -30,7 +30,7 @@
 Une interface claire, adaptée à un usage en extérieur sur moto.
 
 <div align="center">
-  <img src="assets/showcase/showcase_driver.png" width="300" alt="Dashboard Motard ATLAS"/>
+  <img src="assets/showcase/showcase_driver.png" width="300" alt="Dashboard Livreur ATLAS"/>
 </div>
 
 ---
@@ -62,5 +62,5 @@ Une interface claire, adaptée à un usage en extérieur sur moto.
 ---
 
 <div align="center">
-  <p>Conçu pour simplifier la vie des motards de Goma avec ❤️</p>
+  <p>Conçu pour simplifier la vie des livreurs de Goma avec ❤️</p>
 </div>
